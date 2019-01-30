@@ -1,1 +1,1 @@
-<?php echo "Hello there.This is sample PHP using docker git demo!!!"; ?>
+<?php echo "Hello world.This is sample PHP using docker git demo!!!"; ?>
